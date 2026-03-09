@@ -1,6 +1,6 @@
 {
   "name": "js-tools-kits",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "개발 작업하며 얻은 util 함수 모음집",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
