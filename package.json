@@ -1,0 +1,20 @@
+{
+  "name": "js-tools",
+  "version": "1.0.0",
+  "description": "개발 작업하며 얻은 util 함수 모음집",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --build "
+  },
+  "repository": {
+    "name": "@js-tools",
+    "url": "https://github.com/CureLatte/js-tools.git"
+  },
+  "outFile": ["/dist"],
+  "author": "js",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
